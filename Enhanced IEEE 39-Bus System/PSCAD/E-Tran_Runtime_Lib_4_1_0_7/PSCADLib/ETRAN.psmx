@@ -1,0 +1,12 @@
+<Meta name="ETRAN">
+  <messagelist>
+    <message status="normal" label="information" scope="ETRAN" groupid="400000"><![CDATA[Post-link user instances: 16ms]]></message>
+  </messagelist>
+  <Catalog count="0" />
+  <ViewContext>
+    <Window defn="ETRAN:Main" call="0" />
+  </ViewContext>
+  <List classid="View">
+    <View name="Main" zoomlevel="6" scrollx="0" scrolly="0" />
+  </List>
+</Meta>

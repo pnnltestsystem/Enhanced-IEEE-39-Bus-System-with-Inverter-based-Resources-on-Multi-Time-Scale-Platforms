@@ -1,0 +1,52 @@
+<Meta name="ETRAN">
+  <messagelist>
+    <message label="information" status="warning" groupid="200503"><![CDATA[Definition 'Station' has an invalid (CRC) value, it may be corrupt or modified externally.]]></message>
+    <message label="information" status="warning" groupid="200503"><![CDATA[Definition 'Electranix_meter_1phase' has an invalid (CRC) value, it may be corrupt or modified externally.]]></message>
+    <message label="information" status="warning" groupid="200503"><![CDATA[Definition 'Electranix_Pi' has an invalid (CRC) value, it may be corrupt or modified externally.]]></message>
+    <message label="information" status="warning" groupid="200503"><![CDATA[Definition 'Electranix_Gen' has an invalid (CRC) value, it may be corrupt or modified externally.]]></message>
+    <message label="information" status="warning" groupid="200503"><![CDATA[Definition 'Electranix_1to3' has an invalid (CRC) value, it may be corrupt or modified externally.]]></message>
+    <message label="information" status="warning" groupid="200503"><![CDATA[Definition 'Electranix_singlephase_rms' has an invalid (CRC) value, it may be corrupt or modified externally.]]></message>
+    <message label="information" status="warning" groupid="200503"><![CDATA[Definition 'Electranix_NodeExport' has an invalid (CRC) value, it may be corrupt or modified externally.]]></message>
+    <message label="information" status="warning" groupid="200503"><![CDATA[Definition 'Electranix_SwitchedShunt' has an invalid (CRC) value, it may be corrupt or modified externally.]]></message>
+    <message label="information" status="warning" groupid="200503"><![CDATA[Definition 'Electranix_DCLink' has an invalid (CRC) value, it may be corrupt or modified externally.]]></message>
+    <message label="information" status="warning" groupid="200503"><![CDATA[Definition 'Electranix_SeriesCapacitor' has an invalid (CRC) value, it may be corrupt or modified externally.]]></message>
+    <message label="information" status="warning" groupid="200503"><![CDATA[Definition 'Electranix_volt_stab_detect' has an invalid (CRC) value, it may be corrupt or modified externally.]]></message>
+    <message label="information" status="warning" groupid="200503"><![CDATA[Definition 'Electranix_Common_Set' has an invalid (CRC) value, it may be corrupt or modified externally.]]></message>
+    <message label="information" status="warning" groupid="200503"><![CDATA[Definition 'Electranix_Common_Get' has an invalid (CRC) value, it may be corrupt or modified externally.]]></message>
+    <message label="information" status="warning" groupid="200503"><![CDATA[Definition 'Electranix_Init_Conditions' has an invalid (CRC) value, it may be corrupt or modified externally.]]></message>
+    <message label="information" status="warning" groupid="200503"><![CDATA[Definition 'Electranix_Init_Tap' has an invalid (CRC) value, it may be corrupt or modified externally.]]></message>
+    <message label="information" status="warning" groupid="200503"><![CDATA[Definition 'Electranix_Init_DCLink' has an invalid (CRC) value, it may be corrupt or modified externally.]]></message>
+    <message label="information" status="warning" groupid="200503"><![CDATA[Definition 'Electranix_xfmr_3w' has an invalid (CRC) value, it may be corrupt or modified externally.]]></message>
+    <message label="information" status="warning" groupid="200503"><![CDATA[Definition 'Electranix_Error' has an invalid (CRC) value, it may be corrupt or modified externally.]]></message>
+    <message label="information" status="warning" groupid="200503"><![CDATA[Definition 'Electranix_remote_vmeas_set' has an invalid (CRC) value, it may be corrupt or modified externally.]]></message>
+    <message label="information" status="warning" groupid="200503"><![CDATA[Definition 'Electranix_remote_vmeas_get' has an invalid (CRC) value, it may be corrupt or modified externally.]]></message>
+    <message label="information" status="warning" groupid="200503"><![CDATA[Definition 'Electranix_PSSE_Exciter_Models' has an invalid (CRC) value, it may be corrupt or modified externally.]]></message>
+    <message label="information" status="warning" groupid="200503"><![CDATA[Definition 'Electranix_PSSE_Governors' has an invalid (CRC) value, it may be corrupt or modified externally.]]></message>
+    <message label="information" status="warning" groupid="200503"><![CDATA[Definition 'Electranix_PSSE_Machine' has an invalid (CRC) value, it may be corrupt or modified externally.]]></message>
+    <message label="information" status="warning" groupid="200503"><![CDATA[Definition 'Electranix_PSSE_Stabilizers' has an invalid (CRC) value, it may be corrupt or modified externally.]]></message>
+    <message label="information" status="warning" groupid="200503"><![CDATA[Definition 'Electranix_ReadPSSEDYR' has an invalid (CRC) value, it may be corrupt or modified externally.]]></message>
+    <message label="information" status="warning" groupid="200503"><![CDATA[Definition 'Electranix_Compounding_VRef' has an invalid (CRC) value, it may be corrupt or modified externally.]]></message>
+    <message label="information" status="warning" groupid="200503"><![CDATA[Definition 'Electranix_PSSE_Shaf25' has an invalid (CRC) value, it may be corrupt or modified externally.]]></message>
+    <message label="information" status="warning" groupid="200503"><![CDATA[Definition 'Electranix_Switched_Shunt_Control' has an invalid (CRC) value, it may be corrupt or modified externally.]]></message>
+    <message label="information" status="warning" groupid="200503"><![CDATA[Definition 'xfmr_2w_scaled' has an invalid (CRC) value, it may be corrupt or modified externally.]]></message>
+    <message label="information" status="warning" groupid="200503"><![CDATA[Definition 'ETRAN_COM_BERG' has an invalid (CRC) value, it may be corrupt or modified externally.]]></message>
+    <message label="information" status="warning" groupid="200503"><![CDATA[Definition 'Electranix_PSCAD_PSSE' has an invalid (CRC) value, it may be corrupt or modified externally.]]></message>
+    <message label="information" status="warning" groupid="200503"><![CDATA[Definition 'Sequencer_Electranix_ETRANPlus_Com' has an invalid (CRC) value, it may be corrupt or modified externally.]]></message>
+    <message label="information" status="warning" groupid="200503"><![CDATA[Definition 'Electranix_Common_GetSet' has an invalid (CRC) value, it may be corrupt or modified externally.]]></message>
+    <message label="information" status="warning" groupid="200503"><![CDATA[Definition 'Sequencer_Electranix_AutoLaunch' has an invalid (CRC) value, it may be corrupt or modified externally.]]></message>
+    <message label="information" status="warning" groupid="200503"><![CDATA[Definition 'Electranix_Load' has an invalid (CRC) value, it may be corrupt or modified externally.]]></message>
+    <message label="information" status="warning" groupid="200503"><![CDATA[Definition 'Electranix_Scale_2' has an invalid (CRC) value, it may be corrupt or modified externally.]]></message>
+    <message label="information" status="warning" groupid="200503"><![CDATA[Definition 'Electranix_Scale_1' has an invalid (CRC) value, it may be corrupt or modified externally.]]></message>
+    <message label="information" status="warning" groupid="200503"><![CDATA[Definition 'Sequencer_Electranix_PSCAD_chan_export' has an invalid (CRC) value, it may be corrupt or modified externally.]]></message>
+    <message label="information" status="warning" groupid="200503"><![CDATA[Definition 'Sequencer_Electranix_PSSE_chan_import' has an invalid (CRC) value, it may be corrupt or modified externally.]]></message>
+    <message label="information" status="warning" groupid="200503"><![CDATA[Definition 'Electranix_Breaker_Control' has an invalid (CRC) value, it may be corrupt or modified externally.]]></message>
+    <message label="information" status="warning" groupid="200503"><![CDATA[Definition 'Electranix_switch' has an invalid (CRC) value, it may be corrupt or modified externally.]]></message>
+    <message label="information" status="warning" groupid="200503"><![CDATA[Definition 'Electranix_xfmr_2w' has an invalid (CRC) value, it may be corrupt or modified externally.]]></message>
+    <message label="information" status="warning" groupid="200503"><![CDATA[Definition 'Main' has an invalid (CRC) value, it may be corrupt or modified externally.]]></message>
+    <message status="normal" label="information" scope="ETRAN" groupid="400000"><![CDATA[Post-link user instances: 32ms]]></message>
+  </messagelist>
+  <Catalog count="0" />
+  <ViewContext>
+    <Window defn="ETRAN:Main" call="0" />
+  </ViewContext>
+</Meta>

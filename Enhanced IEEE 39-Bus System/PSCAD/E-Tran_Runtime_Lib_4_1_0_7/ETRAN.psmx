@@ -1,0 +1,9 @@
+<Meta name="ETRAN">
+  <messagelist />
+  <ViewContext>
+    <Window defn="ETRAN:Main" call="0" />
+  </ViewContext>
+  <List classid="View">
+    <View name="Main" zoomscale="1.5" scrollx="0" scrolly="0" />
+  </List>
+</Meta>
